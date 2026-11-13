@@ -1,0 +1,27 @@
+﻿# Environment variables
+.env
+.env.local
+*.env
+
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS metadata
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# IDE and editors
+.idea/
+*.swp
+*.swo
+
+# Build & Logs
+*.log
+dist/
+build/
